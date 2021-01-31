@@ -20,5 +20,4 @@
 
 ## 맡은 기능
 - [회원가입](signup/signup.md)
-- [메인(헤더/푸터)]()
-- 
+- [메인(헤더/푸터)](header-and-footer/README.md)
