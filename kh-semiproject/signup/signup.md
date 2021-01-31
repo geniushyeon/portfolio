@@ -9,24 +9,24 @@
 - 주소를 입력할 때는 ```daum 주소 API```를 사용한다.
 - 필수 기입 정보와 필수 동의 약관에 모두 동의해야만 회원가입을 완료할 수 있다.
 ## 기본 화면
-![](../img/signup1.png)<br/>
-![](../img/signup2.png)<br/>
+![](img/signup1.png)<br/>
+![](img/signup2.png)<br/>
 ## 경고 메시지 출력화면
-![](../img/signup_warning.png)<br/>
+![](img/signup_warning.png)<br/>
 - 비밀번호와 비밀번호 확인의 값이 일치하지 않을 경우, 경고 메시지를 출력해준다.
 ## 사용 가능 메시지 출력화면
-![](../img/signup_green.png)<br/>
+![](img/signup_green.png)<br/>
 - 비밀번호의 경우 보안 상의 문제로 메시지를 출력하지 않는 방향을 선택하였다.
 ## daum 주소 API
-![](../img/signup_daumAPI.png)<br/>
+![](img/signup_daumAPI.png)<br/>
 ## 약관보기
-![](../img/signup_admit1.png)
+![](img/signup_admit1.png)
 - 가독성을 고려하지 않은 점이 아쉽다.
 ## 약관 동의 없이 가입 시도했을 때 화면
-![](../img/signup_notadmit.png)<br/>
+![](img/signup_notadmit.png)<br/>
 - 약관에는 동의했지만 필수 정보가 채워지지 않을 때도 마찬가지로 alert창을 띄운다.
 ## 회원가입 완료
-![](../img/signup_complete.png)<br/>
+![](img/signup_complete.png)<br/>
 - 유저의 아이디 정보를 보여준다.
 ## 코드
 - [회원가입(view)](src/signup.jsp)
