@@ -1,4 +1,4 @@
-# 회원가입 기능
+# 회원가입
 - 벤치마킹: 무신사 회원가입 페이지(https://my.musinsa.com/member/v2/join)
 ## Workflow
 - 홈페이지에 접속한 회원은 아이디, 비밀번호, 이름, 이메일, 전화번호, 주소로 가입한다.
@@ -30,7 +30,9 @@
 - 유저의 아이디 정보를 보여준다.
 ## 코드
 - [회원가입(view)](src/signup.jsp)
+- [회원가입(css)](src/signup.css)
 - [회원가입 완료(view)](src/signup_complete.jsp)
+- [회원가입 완료(css)](src/signup_complete.css)
 - [약관(view)](src/coffeesazo_admit.jsp)
 - [회원가입(javascript)](src/signup.js)
 - [회원가입(servlet)](src/SignupServlet.java)
