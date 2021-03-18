@@ -10,7 +10,7 @@
 조장(프로젝트 총괄), 메인(헤더/푸터), 회원가입, 공지사항(백엔드), 마이페이지(주문상세조회, 회원정보수정 백엔드)
 ```
 - 👉 [팀 깃허브 바로가기](https://github.com/geniushyeon/kh-semiproject)
-## 개발환경
+## 개발 환경
 - OS: Windows 10 / macOS Catalina 10.15.7
 - Version Control: Github
 - Framework: Bootstrap
@@ -32,9 +32,17 @@
 |01.01 - 01.08|백엔드 개발
 |01.09 - 01.11|테스트 및 발표 준비, 버그 수정|
 |01.12|발표
+## DB 설계
+![](assets/커피사조.png)<br/>
 ## 맡은 기능
 - [회원가입](signup/signup.md)
+  - Javascript 정규식을 이용해 유효성 검사
+  - Ajax를 통해 페이지 새로고침 없이 중복 확인
 - [메인(헤더/푸터)](header-and-footer/README.md)
 - [주문상세조회](order-detail/README.md)
+  - 주문 상세정보 조회 및 주문 취소
 - [회원정보수정](update-info/README.md)
+  - Javascript 정규식을 이용해 유효성 검사
+  - Ajax를 통해 페이지 새로고침 없이 중복 확인
 - [공지사항](notice/README.md)
+  - 검색 및 페이징 기능
