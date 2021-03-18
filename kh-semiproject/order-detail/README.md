@@ -9,7 +9,7 @@
 ![](img/order_detail_2.png)<br/>
 - DB에서 주문번호에 해당하는 주문 상세정보를 불러온다.
 ## 삭제 화면
-![](img/order_cancel.gif)
+![](img/order_cancel.GIF)
 - 주문취소 - 확인 과정을 거쳐 주문이 취소된다.
 ## 코드
 - [view](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/mypage/mypage_order_detail.jsp)
