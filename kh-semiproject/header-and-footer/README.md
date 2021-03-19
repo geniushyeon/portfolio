@@ -21,6 +21,6 @@
 
 ## 코드
 - [header(view)](src/header.jsp)
-- [header(css)](src/header.css)
+  - [header(css)](src/header.css)
 - [footer(view)](src/footer.jsp)
-- [header(css)](src/footer.css)
+  - [header(css)](src/footer.css)

@@ -1,4 +1,4 @@
-# 공지사항
+# 공지사항(백엔드 작업)
 - 공지사항을 열람할 수 있는 페이지이다.
 ## Workflow
 - 헤더의 고객센터 메뉴 클릭 시 공지사항 페이지로 이동한다.
@@ -13,7 +13,7 @@
 ![](img/상세보기.GIF)
 ## 코드
 - [view](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/notice/notice.jsp)
-- [css](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/notice.css)
+  - [css](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/notice.css)
 - [servlet](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/notice/controller/NoticeServlet.java)
 - [dao](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/notice/model/dao/NoticeDao.java)
 - [service](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/notice/model/service/NoticeService.java)

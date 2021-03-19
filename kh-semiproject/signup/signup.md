@@ -30,9 +30,9 @@
 - 유저의 아이디 정보를 보여준다.
 ## 코드
 - [회원가입(view)](src/signup.jsp)
-- [회원가입(css)](src/signup.css)
+  - [회원가입(css)](src/signup.css)
 - [회원가입 완료(view)](src/signup_complete.jsp)
-- [회원가입 완료(css)](src/signup_complete.css)
+  - [회원가입 완료(css)](src/signup_complete.css)
 - [약관(view)](src/coffeesazo_admit.jsp)
 - [회원가입(javascript)](src/signup.js)
 - [회원가입(servlet)](src/SignupServlet.java)
