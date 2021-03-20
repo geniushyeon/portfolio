@@ -66,7 +66,7 @@
 - 일대일 문의 - 조회/작성/수정/삭제
 ## 4. 맡은 기능
 각 기능을 누르면 해당 기능 상세보기로 이동
-### 4.1. [회원가입](signup/signup.md)
+### 4.1. [회원가입](signup/README.md)
   - Javascript 정규식을 이용해 유효성 검사
   - Ajax를 통해 페이지 새로고침 없이 중복 확인
 ### 4.2. [메인(헤더/푸터)](header-and-footer/README.md)
