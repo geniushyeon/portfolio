@@ -30,13 +30,16 @@
 ![](img/signup_complete.png)<br/>
 - 유저의 아이디 정보를 보여준다.
 ## 3. 코드
-- [회원가입(view)](src/signup.jsp)
-  - [회원가입(css)](src/signup.css)
-- [회원가입 완료(view)](src/signup_complete.jsp)
-  - [회원가입 완료(css)](src/signup_complete.css)
+### 3.1. 프론트엔드
+- [회원가입(jsp)](src/signup.jsp)
+- [회원가입(css)](src/signup.css)
+- [회원가입 완료(jsp)](src/signup_complete.jsp)
+- [회원가입 완료(css)](src/signup_complete.css)
 - [약관(view)](src/coffeesazo_admit.jsp)
 - [회원가입(javascript)](src/signup.js)
-- [회원가입(servlet)](src/SignupServlet.java)
+
+### 3.2. 백엔드
+- [회원가입 servlet](src/SignupServlet.java)
 - [아이디 중복확인 servlet](src/IdDuplicatedServlet.java)
 - [이메일 중복확인 servlet](src/EmailDuplicatedCheckServlet.java)
 - [휴대폰번호 중복확인 servlet](src/PhoneDuplicatedCheckServlet.java)

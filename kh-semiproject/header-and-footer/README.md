@@ -21,10 +21,12 @@
 - 화면 크기가 변경되어도 최하단에 고정된다.
 
 ## 3. 코드
-- [header(view)](src/header.jsp)
-  - [header(css)](src/header.css)
-- [footer(view)](src/footer.jsp)
-  - [header(css)](src/footer.css)
+1. header
+- [jsp](src/header.jsp)
+- [css](src/header.css)
+2. footer
+- [jsp](src/footer.jsp)
+- [css](src/footer.css)
 
 ## 4. 목차로 돌아가기
 👉 [여기를 클릭하세요](/kh-semiproject/README.md)

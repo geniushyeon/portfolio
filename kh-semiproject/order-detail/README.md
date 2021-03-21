@@ -13,8 +13,10 @@
 ![](img/order_cancel.GIF)
 - 주문취소 - 확인 과정을 거쳐 주문이 취소된다.
 ## 3. 코드
-- [view](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/mypage/mypage_order_detail.jsp)
-  - [css](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/mypage_order_detail.css)
+### 3.1. 프론트엔드
+- [jsp](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/mypage/mypage_order_detail.jsp)
+- [css](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/mypage_order_detail.css)
+### 3.2. 백엔드
 - [servlet(주문상세보기)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/mypages/controller/OrderDetailServlet.java)
 - [servlet(주문취소)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/mypages/controller/OrderDetailDeleteServlet.java)
 - [dao](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/mypages/model/dao/OrderDetailDao.java)
