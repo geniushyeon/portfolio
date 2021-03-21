@@ -1,5 +1,5 @@
 # 회원가입
-- 벤치마킹: 무신사 회원가입 페이지(https://my.musinsa.com/member/v2/join)
+- 벤치마킹: [무신사 회원가입 페이지](https://my.musinsa.com/member/v2/join)
 ## 1. Workflow
 - 홈페이지에 접속한 회원은 아이디, 비밀번호, 이름, 이메일, 전화번호, 주소로 가입한다.
 - 주소를 제외한 정보는 필수 정보이다.
@@ -31,20 +31,20 @@
 - 유저의 아이디 정보를 보여준다.
 ## 3. 코드
 ### 3.1. 프론트엔드
-- [회원가입(jsp)](src/signup.jsp)
-- [회원가입(css)](src/signup.css)
-- [회원가입 완료(jsp)](src/signup_complete.jsp)
-- [회원가입 완료(css)](src/signup_complete.css)
-- [약관(view)](src/coffeesazo_admit.jsp)
-- [회원가입(javascript)](src/signup.js)
+- [회원가입(jsp)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/signup/signup.jsp)
+- [회원가입(css)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/signup.css)
+- [회원가입 완료(jsp)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/signup/signup_complete.jsp)
+- [회원가입 완료(css)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/signup_complete.css)
+- [약관(view)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/signup/userinfo_admit.jsp)
+- [회원가입(javascript)](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/js/signup.js)
 
 ### 3.2. 백엔드
-- [회원가입 servlet](src/SignupServlet.java)
-- [아이디 중복확인 servlet](src/IdDuplicatedServlet.java)
-- [이메일 중복확인 servlet](src/EmailDuplicatedCheckServlet.java)
-- [휴대폰번호 중복확인 servlet](src/PhoneDuplicatedCheckServlet.java)
-- [회원 vo](src/MemberVo.java)
-- [회원 Dao](src/MemberDao.java)
+- [회원가입 servlet](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/member/controller/SignupServlet.java)
+- [아이디 중복확인 servlet](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/member/controller/IdDuplicatedCheckServlet.java)
+- [이메일 중복확인 servlet](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/member/controller/EmailDuplicatedCheckServlet.java)
+- [휴대폰번호 중복확인 servlet](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/member/controller/PhoneDuplicatedCheckServlet.java)
+- [회원 vo](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/member/model/vo/MemberVo.java)
+- [회원 Dao](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/src/com/coffeesazo/member/model/dao/MemberDao.java)
 
 ## 4. 목차로 돌아가기
 👉 [여기를 클릭하세요](/kh-semiproject/README.md)

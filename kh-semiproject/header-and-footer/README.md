@@ -22,11 +22,11 @@
 
 ## 3. 코드
 1. header
-- [jsp](src/header.jsp)
-- [css](src/header.css)
-2. footer
-- [jsp](src/footer.jsp)
-- [css](src/footer.css)
+- [jsp](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/header.jsp)
+- [css](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/header.css)
+1. footer
+- [jsp](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/footer.jsp)
+- [css](https://github.com/geniushyeon/kh-semiproject/blob/main/backend/Coffeesazo/WebContent/view/css/footer.css)
 
 ## 4. 목차로 돌아가기
 👉 [여기를 클릭하세요](/kh-semiproject/README.md)
